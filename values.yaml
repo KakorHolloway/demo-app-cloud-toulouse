@@ -13,7 +13,7 @@ standard-app:
     type: composition
   ingress:
     enabled: true
-    host: standard-app.cgicloudtoulouse.fr
+    host: standard-app-bbel.cgicloudtoulouse.fr
 
 standard-app-postgres:
   enabled: false
